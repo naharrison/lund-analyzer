@@ -1,4 +1,4 @@
-package lundPackage;
+package ungphys.lund;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package lundPackage;
+package ungphys.lund;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

@@ -1,4 +1,4 @@
-package lundPackage;
+package ungphys.lund;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -7,7 +7,7 @@ public class lundPIDfunction {
 
 	public static void main(String[] args) throws IOException {
 		 
-			LUNDReader myReader = new LUNDReader("C:\\Users\\tj\\Desktop\\Research Project\\pythia_lund_11.0GeV_5k.dat", 5000);
+			LUNDReader myReader = new LUNDReader("short_lund_file.dat", 9);
 			
 			ArrayList <Integer> test_list = new ArrayList<>();
 			test_list.add(11);
